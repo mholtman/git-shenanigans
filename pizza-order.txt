@@ -1,0 +1,32 @@
+
+Osdfasdfsdfasdfsdf
+fsdfsdfsdf
+sdfsd
+
+
+# This is a combination of 3 commits.
+# This is a combination of 3 commits.
+# This is the 1st commit message:
+
+On the right bracnh this time
+
+# This is the commit message #2:
+
+Stuff
+
+# This is the commit message #3:
+
+Stuff
+
+# This is the 1st commit message:
+
+On the right bracnh this time
+
+# This is the commit message #2:
+
+Stuff
+
+# This is the commit message #3:
+
+Stuff
+
